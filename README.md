@@ -1,8 +1,5 @@
 # M01W01 The Dev Workflow
 
-## Github Repo
-https://github.com/Masavi/the-dev-workflow
-
 ## Topics to cover
 
 - Curriculum overview
@@ -127,8 +124,8 @@ The commands that we must execute in order to push our local repo into github sh
 
 ```terminal
 $ git remote add origin git@github.com:Masavi/my-repo
-git branch -M main
-git push -u origin main
+$ git branch -M main
+$ git push -u origin main
 ```
 
 And that's it! You should now be able to visit your repository directly in Github's website.
